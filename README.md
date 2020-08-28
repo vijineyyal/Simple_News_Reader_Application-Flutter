@@ -1,6 +1,9 @@
 # news_app
 
-A new Flutter application.
+A new Flutter application that uses NewsAPI to get news and displays it.
+![Screenshot](image0.png)
+![Screenshot](image1.png)
+![Screenshot](image2.png)
 
 ## Getting Started
 
